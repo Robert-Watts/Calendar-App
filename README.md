@@ -4,6 +4,7 @@
 
 ![Calendar Homescreen](write-up/home-page.png)
 
+
 For my A Level Computer Science controlled assessment I chose to create a Calendar App. In this project I had to:
 
 * conduct user interviews and analyse existing products to help me generate a success criteria
@@ -21,4 +22,5 @@ To run the project just run the [Calendar.py](Calendar.py) file in the project r
 
 Throughout all of this I had to continually write up everything that I was doing, with screenshots and videos. This can be seen in the [write-up](write-up) folder. __For this project I received 84%.__ You can view the project write up [write-up/C03-Programming-Project.pdf](write-up/C03-Programming-Project.pdf).
 
-![Project Write Up](write-up/Write-Up-Cover-Page.png)
+[![Project Write Up](write-up/Write-Up-Cover-Page.PNG)](write-up/C03-Programming-Project.pdf).
+
