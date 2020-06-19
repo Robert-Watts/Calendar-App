@@ -21,3 +21,9 @@ To run the project just run the [Calendar.py](Calendar.py) file in the project r
 ## Project Write Up
 
 Throughout all of this I had to continually write up everything that I was doing, with screenshots and videos. This can be seen in the [write-up](write-up) folder. __For this project I received 84%.__
+
+<object data="write-up/C03-Programming-Project.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="write-up/C03-Programming-Project.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="write-up/C03-Programming-Project.pdf">write-up/C03-Programming-Project.pdf</a>.</p>
+    </embed>
+</object>
